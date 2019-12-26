@@ -1,0 +1,7 @@
+name: StrawberryAPI
+version: 2.2
+main: de.raffi.strawberry.StrawberryAPI
+authors: [keksexception]
+
+commands:
+   strawberry:
